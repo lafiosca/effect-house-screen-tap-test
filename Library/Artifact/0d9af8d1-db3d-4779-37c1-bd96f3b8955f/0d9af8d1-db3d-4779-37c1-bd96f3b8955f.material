@@ -1,0 +1,29 @@
+%YAML 1.1
+--- !Material &1
+name: Unlit
+guid: {a: 9749362278212529553, b: 2699817621241612439}
+xshader: {localId: 1, path: 0d9af8d1-db3d-4779-37c1-bd96f3b8955f--0d9af8d1-db3d-4779-37c1-bd96f3b8955f.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 306828450433411767, b: 6736060299564096912}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000021--00000000-0000-0000-0000-000000000021.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+mshaderPath: ""

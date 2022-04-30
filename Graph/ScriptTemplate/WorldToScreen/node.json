@@ -1,0 +1,39 @@
+{
+	"name": "World to Screen",
+	"id": "3a7ccf47-8b74-a89f-64a2-9f5874985bc1",
+	"inputs": [
+		{
+			"name": "World pos",
+			"type": "Vector3f",
+			"item_type": "",
+			"description": "The position in world space",
+			"displayType": "Vec3"
+		},
+		{
+			"name": "Camera",
+			"type": "Camera",
+			"description": "The camera that provides the output viewport space",
+			"displayType": "Camera"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Screen pos",
+			"type": "Vector2f",
+			"item_type": "",
+			"description": "The position in the camera viewport space, which is normalized to the camera",
+			"displayType": "Vec2"
+		}
+	],
+	"js": "CGWorldToScreen.js",
+	"lua": "CGWorldToScreen.lua",
+	"version": "1.0",
+	"category": "Transform",
+	"description": "Transform a position from world space to camera viewport space. The bottom left of the camera viewport is (0,0) and the top right is (1,1). ",
+	"productTypes": [
+		"InHouse",
+		"Domestic",
+		"TTEH"
+	],
+	"TTEHVer": "1.0.1"
+}

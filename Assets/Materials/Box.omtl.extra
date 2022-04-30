@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "861671b2-b88e-af58-85d8-6611775dc3a2",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Box",
+    "objGuid": "Guid(10470217286683678509, 3176218273225306257)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(14141707870170124731, 2185493512479582897)"
+  }
+]

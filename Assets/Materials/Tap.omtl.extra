@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "d77ba69e-dc10-bcda-0dd1-53c29e678115",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Tap",
+    "objGuid": "Guid(12124831952039247609, 5419580208073165200)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(16017064667939439935, 13535335698611673268)"
+  }
+]

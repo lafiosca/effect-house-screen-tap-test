@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "0d9af8d1-db3d-4779-37c1-bd96f3b8955f",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Targeting",
+    "objGuid": "Guid(9749362278212529553, 2699817621241612439)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(8810970495034297176, 4243973591340373888)"
+  }
+]

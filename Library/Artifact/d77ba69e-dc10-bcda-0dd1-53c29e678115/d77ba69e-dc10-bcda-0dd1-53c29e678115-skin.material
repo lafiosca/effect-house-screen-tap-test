@@ -1,0 +1,30 @@
+%YAML 1.1
+--- !Material &1
+name: Targeting (1)
+guid: {a: 16017064667939439935, b: 13535335698611673268}
+xshader: {localId: 1, path: d77ba69e-dc10-bcda-0dd1-53c29e678115--d77ba69e-dc10-bcda-0dd1-53c29e678115.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 10395757708271065705, b: 544192244422802572}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 1, y: 0.270685, z: 0.32282, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000021--00000000-0000-0000-0000-000000000021.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_AMAZING_USE_BONES: !<str> 1
+mshaderPath: ""

@@ -1,0 +1,40 @@
+{
+	"name": "Peek",
+	"id": "84CEBF56-60A1-4C3D-8064-4D10B9D91581",
+	"inputs": [
+		{
+			"name": "Data",
+			"description": "The input data",
+			"type": "Double",
+			"displayType": "Number",
+			"dynamic": true
+		}
+	],
+	"outputs": [
+		{
+			"name": "Data",
+			"description": "The value of the input data",
+			"type": "Double",
+			"displayType": "Number",
+			"dynamic": true
+		}
+	],
+	"category": "Utility",
+	"TTEHVer": "1.0.1",
+	"description": "Monitor and display the value of the input in real time, or output the value to another node. Supported types: Number, Bool, Vec2, Vec3, Vec4, Color, String, and Rect.",
+	"supportedValueTypes": [
+		"Double",
+		"Int",
+		"Bool",
+		"Vector2f",
+		"Vector3f",
+		"Vector4f",
+		"Color",
+		"String",
+		"Rect"
+	],
+	"productTypes": [
+		"TTEH"
+	],
+	"js": "CGPeek.js"
+}

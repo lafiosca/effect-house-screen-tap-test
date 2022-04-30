@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "7b726a2f-02af-c91b-29a0-8281bf1aafbe",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Corner",
+    "objGuid": "Guid(1823649082667373537, 17963347632301964944)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(10109542315959204300, 16790496627108348298)"
+  }
+]

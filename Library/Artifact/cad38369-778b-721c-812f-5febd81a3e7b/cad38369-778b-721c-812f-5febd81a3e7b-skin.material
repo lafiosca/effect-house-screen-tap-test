@@ -1,0 +1,30 @@
+%YAML 1.1
+--- !Material &1
+name: Matching Corner (1)
+guid: {a: 11765746471433736231, b: 588398371618788265}
+xshader: {localId: 1, path: cad38369-778b-721c-812f-5febd81a3e7b--cad38369-778b-721c-812f-5febd81a3e7b.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 2828792098860861163, b: 11938244271741137027}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 0, y: 0.261645, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000021--00000000-0000-0000-0000-000000000021.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_AMAZING_USE_BONES: !<str> 1
+mshaderPath: ""
