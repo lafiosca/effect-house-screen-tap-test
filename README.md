@@ -20,3 +20,5 @@ On these devices, we saw the intended behavior:
 - Nokia 3.4 running Android 11
 
 The effect also behaves as intended in the Effect House preview.
+
+The same bad behavior occurs with Finger Touch 1-Point as well.
