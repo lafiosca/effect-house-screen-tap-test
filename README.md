@@ -2,16 +2,17 @@
 
 This is a project demonstrating touch gesture math in Effect House. It calculates a world position to move a sphere where the user taps.
 
-## iPhone 13 Pro bug
+## iPhone 13/12 Pro bug
 
-I think I have discovered a serious platform-specific bug in the gesture handling (Screen Tap) or screen position math (World to Screen). Specifically, it appears that the touch math in this project does not work correctly on iPhone 13 Pro phones, offsetting the position a bit vertically. See this video for a demonstration: https://www.youtube.com/watch?v=lhSnm8huEug
+I think I have discovered a serious platform-specific bug in the gesture handling (Screen Tap) or screen position math (World to Screen). Specifically, it appears that the touch math in this project does not work correctly on iPhone 13/12 Pro phones, offsetting the position a bit vertically. See this video for a demonstration: https://www.youtube.com/watch?v=lhSnm8huEug
 
-With the help of @lauragouillon, we have tested the effect on several devices.
+With the help of @lauragouillon and others, we have tested the effect on several devices.
 
 On these devices, we experienced the buggy behavior:
 
 - iPhone 13 Pro running iOS 15.4.1
 - iPhone 13 Pro running iOS 15.2
+- iPhone 12 Pro Max
 
 On these devices, we saw the intended behavior:
 
