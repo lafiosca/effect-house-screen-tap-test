@@ -12,7 +12,7 @@ On these devices, we experienced the buggy behavior:
 
 - iPhone 13 Pro running iOS 15.4.1
 - iPhone 13 Pro running iOS 15.2
-- [iPhone 12 Pro Max](media/iPhone+12+Pro+Max.jpg) [(screenshot)](media/iPhone+12+Pro+Max+screenshot.jpg)
+- [iPhone 12 Pro Max](media/iPhone%2012%20Pro%20Max.jpg) [(screenshot)](media/iPhone%2012%20Pro%20Max%20screenshot.jpg)
 
 On these devices, we saw the intended behavior:
 
