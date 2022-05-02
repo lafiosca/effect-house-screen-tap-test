@@ -10,15 +10,15 @@ With the help of @lauragouillon and @ひろゆき, we have tested the effect on 
 
 On these devices, we experienced the buggy behavior:
 
-- iPhone 13 Pro running iOS 15.4.1
+- iPhone 13 Pro running iOS 15.4.1 [(video)](https://www.youtube.com/watch?v=lhSnm8huEug)
 - iPhone 13 Pro running iOS 15.2
 - iPhone 12 Pro Max [(photo)](media/iPhone%2012%20Pro%20Max.jpg) [(screenshot)](media/iPhone%2012%20Pro%20Max%20screenshot.jpg)
 
 On these devices, we saw the intended behavior:
 
 - iPhone 11 running iOS 15.1
-- iPhone 8 running iOS 14.7.1
-- Nokia 3.4 running Android 11
+- iPhone 8 running iOS 14.7.1 [(video)](https://www.youtube.com/watch?v=lhSnm8huEug)
+- Nokia 3.4 running Android 11 [(video)](https://www.youtube.com/watch?v=lhSnm8huEug)
 
 The effect also behaves as intended in the Effect House preview.
 
