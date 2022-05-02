@@ -13,7 +13,7 @@ On these devices, we experienced the buggy behavior:
 - iPhone 13 Pro running iOS 15.4.1 [(video)](https://www.youtube.com/watch?v=lhSnm8huEug)
 - iPhone 13 Pro running iOS 15.2
 - iPhone 12 Pro Max [(photo)](media/iPhone%2012%20Pro%20Max.jpg) [(screenshot)](media/iPhone%2012%20Pro%20Max%20screenshot.jpg)
-- iPhone 11 running iOS 15.4.1 [(video)](media/iPhone 11.mov)
+- iPhone 11 running iOS 15.4.1 [(video)](media/iPhone%2011.mov)
 
 On these devices, we saw the intended behavior:
 
